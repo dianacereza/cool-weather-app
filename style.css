@@ -1,0 +1,93 @@
+       body{
+            font-family:montserrat; 
+            font-size: 15px;
+        }
+        .card {
+            display: block;
+            margin: 120px auto ;
+            padding: 30px;
+            background: linear-gradient(179.1deg, rgb(247, 238, 238) -1.9%, rgb(247, 202, 201) 44.9%, rgb(145, 168, 208) 96.1%);
+            border-radius: 20px;
+            border-color: rgb(247, 238, 238);
+        }
+
+        #search-city-input{
+            background-color: rgb(232, 239, 252);
+            border-radius: 20px;
+            border-width: 1px;
+            border-color: rgb(247, 238, 238);
+            padding: 12px;
+
+        }
+
+       #submit-search, #current-location{
+            background-color:white;
+            border-radius: 20px;
+            border-width: 1px;
+            border-color: rgb(247, 238, 238);
+            padding: 12px;
+        }
+
+        #top-line {
+            color: transparent;
+        }
+
+        #city {
+            font-size: 40px;
+            font-weight: bolder;
+        }
+        #temperature-now {
+            font-size: 33px;
+            font-weight: bolder;
+        }
+
+        h1{
+            font-size: 20px;
+            font-weight: bolder;
+            color: white;
+        }
+
+        #weather-type {
+           font-size: 20px;
+           font-weight: bolder; 
+           color: white;
+        }
+
+
+        #icon-now {
+            font-size: 37px;
+            color: white;
+        }
+        #humidity-now, #wind-now{
+            font-size: 13px;
+        }
+
+        #weather-today{
+            margin-bottom: 50px;
+        }
+
+        .fa-cloud-sun{
+           font-size: 22px;
+        }
+
+        #weather-daily{
+            margin-top: 30px;
+        }
+
+        #temperature-daily{
+            text-align:center;
+        }
+
+        #daily-number{
+            font-size: 25px;
+        }
+
+        #daily-icon{
+            color: white;
+        }
+
+        #bottom-line{
+          border: 2px solid rgb(145, 168, 208);
+          border-radius: 2px;
+          
+        }
