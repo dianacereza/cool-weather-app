@@ -4,7 +4,7 @@
         }
         .card {
             display: block;
-            margin: 120px auto ;
+            margin:  110px auto ;
             padding: 30px;
             background: linear-gradient(179.1deg, rgb(247, 238, 238) -1.9%, rgb(247, 202, 201) 44.9%, rgb(145, 168, 208) 96.1%);
             border-radius: 20px;
@@ -90,4 +90,12 @@
           border: 2px solid rgb(145, 168, 208);
           border-radius: 2px;
           
+        }
+
+        .contact {
+            
+            padding: 10px 10px;
+            text-align: center;
+            font-size: 12px;
+            color: rgb(145, 168, 208);
         }
